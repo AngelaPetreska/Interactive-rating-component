@@ -5,8 +5,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 ### Screenshot ![desktop-preview](image.png)
 
 ### Links
-- Solution URL: [Add solution URL here](https://github.com/AngelaPetreska)
-- Live Site URL: [Add live site URL here](https://angelapetreska.github.io/stats-preview-card-component/)
+- Solution URL: (https://github.com/AngelaPetreska/Interactive-rating-component)
+- Live Site URL: (https://angelapetreska.github.io/Interactive-rating-component/)
 
 ## Author
 - GitHub profile - [Angela Petreska](https://github.com/AngelaPetreska)
